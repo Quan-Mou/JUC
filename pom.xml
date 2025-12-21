@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>createThread-001</module>
+        <module>ThreadSafe-002</module>
     </modules>
 
 
