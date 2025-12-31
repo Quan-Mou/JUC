@@ -11,6 +11,7 @@
     <modules>
         <module>createThread-001</module>
         <module>ThreadSafe-002</module>
+        <module>lock-free-003</module>
     </modules>
 
 
@@ -29,7 +30,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
-            <scope>test</scope>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
     <properties>
