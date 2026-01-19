@@ -13,6 +13,7 @@
         <module>ThreadSafe-002</module>
         <module>lock-free-003</module>
         <module>immutableObj-004</module>
+        <module>ThreadPool-005</module>
     </modules>
 
 
